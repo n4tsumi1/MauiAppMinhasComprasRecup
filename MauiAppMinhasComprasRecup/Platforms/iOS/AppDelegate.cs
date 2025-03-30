@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace MauiAppMinhasCompras_recup.Platforms.iOS;
+namespace MauiAppMinhasComprasRecup.Platforms.iOS;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

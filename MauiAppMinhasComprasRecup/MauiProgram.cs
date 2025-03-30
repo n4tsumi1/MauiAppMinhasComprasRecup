@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace MauiAppMinhasCompras_recup;
+namespace MauiAppMinhasComprasRecup;
 
 public static class MauiProgram
 {

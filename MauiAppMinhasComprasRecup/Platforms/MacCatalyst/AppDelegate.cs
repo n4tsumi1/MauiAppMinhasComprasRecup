@@ -1,6 +1,7 @@
 ﻿using Foundation;
+using MauiAppMinhasComprasRecup;
 
-namespace MauiAppMinhasCompras_recup.Platforms.MacCatalyst;
+namespace MauiAppMinhasComprasRecup.Platforms.MacCatalyst;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

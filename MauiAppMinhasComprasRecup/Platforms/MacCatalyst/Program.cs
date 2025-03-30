@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace MauiAppMinhasCompras_recup.Platforms.iOS;
+namespace MauiAppMinhasComprasRecup.Platforms.MacCatalyst;
 
 public class Program
 {

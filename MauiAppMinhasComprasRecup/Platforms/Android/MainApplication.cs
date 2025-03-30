@@ -1,7 +1,8 @@
 ﻿using Android.App;
 using Android.Runtime;
+using MauiAppMinhasComprasRecup;
 
-namespace MauiAppMinhasCompras_recup.Platforms.Android;
+namespace MauiAppMinhasComprasRecup.Platforms.Android;
 
 [Application]
 public class MainApplication : MauiApplication
